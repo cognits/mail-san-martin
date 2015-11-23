@@ -1,0 +1,16 @@
+
+/* Required-field  */
+.required-field{
+	color: red;
+}
+
+/* Body */
+body{
+	background: url('http://farm5.static.flickr.com/4152/5115040439_d86b9dcc0a_b.jpg')no-repeat fixed; 
+	cursor: url("http://u.jimdo.com/www21/o/s4e9df44a0ad8ccd8/img/i0ebb25453c3942ad/1391502327/thumb/image.png"),default; 
+}
+
+/*Title*/
+.top{
+	font-family: cursive;
+}
